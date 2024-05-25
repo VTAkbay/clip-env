@@ -38,7 +38,6 @@ Install Dependencies
 Install the required dependencies using pip:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
@@ -46,6 +45,5 @@ Run the Project
 To run the script and process images in a specified directory, use the following command:
 
 ```bash
-Copy code
 python clip_analyze.py <directory_path>
 ```
